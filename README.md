@@ -5,7 +5,7 @@
   <p align="center">
     Analyzing and visualizing network degree distributions using Python and NetworkX.
     <br />
-    <a href="https://github.com/4Pranjal/network-degree-distribution"><strong>Explore the docs »</strong></a>
+    <strong>Explore the docs »</strong> 
     <br />
     <br />
     <a href="https://github.com/4Pranjal/network-degree-distribution/issues">Report Bug</a>
