@@ -88,10 +88,19 @@ Contributions to enhance the functionality or improve the code are welcome. Here
 3. Make your improvements.
 4. Open a pull request.
 
-<!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the [MIT License](LICENSE).
+
+---
+## Credits
+
+This repository is maintained by 4Pranjal. Feel free to use and modify the code for educational and research purposes.
+
+For any questions or suggestions, you can contact me through my GitHub profile: [@4Pranjal](https://github.com/4Pranjal).
+
+Made with ❤️ by [Pranjal Jain](https://github.com/4Pranjal)
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
