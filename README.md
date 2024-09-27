@@ -7,11 +7,8 @@
     <br />
     <strong>Explore the docs »</strong> 
     <br />
-    <br />
-    <a href="https://github.com/4Pranjal/network-degree-distribution/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/4Pranjal/network-degree-distribution/issues">Request Feature</a>
-  </p>
+ 
+   </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
